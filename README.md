@@ -2,7 +2,7 @@
 Bad at github? Use this.
 
 1. Install Github Desktop
-2. Fork this repo ![](/Docs/Images/fork.png)
+2. Fork this (or another) repo ![](/Docs/Images/fork.png)
 3. Name your fork whatever you want
 4. Clone your new repo to your computer ![](/Docs/Images/clone.png)
 
